@@ -1,0 +1,6 @@
+cmd:
+pip install jupyter
+
+crie uma pasta colab
+dentro da pasta digite:
+jupyter notebook
